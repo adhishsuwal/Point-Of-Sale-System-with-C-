@@ -1,0 +1,11 @@
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\Bill\Bill\bin\Debug\POS System.exe.config
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\Bill\Bill\bin\Debug\POSSystem.exe.config
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Debug\POSSystem.exe.config
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Debug\POSSystem.exe
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Debug\POSSystem.pdb
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POSSystem.Form1.resources
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POSSystem.Properties.Resources.resources
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POS System.csproj.GenerateResource.Cache
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POSSystem.exe
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POSSystem.pdb
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Debug\POS System.csprojResolveAssemblyReference.cache

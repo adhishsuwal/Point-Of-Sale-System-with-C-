@@ -1,0 +1,9 @@
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Release\POSSystem.exe.config
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Release\POSSystem.exe
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\bin\Release\POSSystem.pdb
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POS System.csprojResolveAssemblyReference.cache
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POSSystem.Form1.resources
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POSSystem.Properties.Resources.resources
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POS System.csproj.GenerateResource.Cache
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POSSystem.exe
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\POS System\Bill\obj\Release\POSSystem.pdb

@@ -1,0 +1,12 @@
+D:\Bill\Bill\bin\Debug\Bill.exe.config
+D:\Bill\Bill\bin\Debug\Bill.exe
+D:\Bill\Bill\bin\Debug\Bill.pdb
+D:\Bill\Bill\obj\Debug\Bill.csprojResolveAssemblyReference.cache
+D:\Bill\Bill\obj\Debug\Bill.Form1.resources
+D:\Bill\Bill\obj\Debug\Bill.Properties.Resources.resources
+D:\Bill\Bill\obj\Debug\Bill.csproj.GenerateResource.Cache
+D:\Bill\Bill\obj\Debug\Bill.exe
+D:\Bill\Bill\obj\Debug\Bill.pdb
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\Bill\Bill\bin\Debug\Bill.exe.config
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\Bill\Bill\obj\Debug\Bill.exe
+D:\Islington College Works\Year 3 Courses\Semester 1\Application Development\Coursework\Bill\Bill\obj\Debug\Bill.pdb
